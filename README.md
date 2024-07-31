@@ -14,7 +14,7 @@ This GitHub repository contains the analysis and results from the study titled "
 The COVID-19 pandemic has had a profound impact on the mental health of children worldwide. This study explores the differential effects of the pandemic on children with varying levels of trauma exposure and resilience. The findings highlight the importance of trauma-informed care and the need to consider children’s adjustment to trauma in service delivery.
 
 ## Dataset
-The dataset used in this study consists of 13,500 unique clients served by San Diego County Children Youth and Family Behavioral Health Services from March 2019 through February 2023. The data is divided into three groups based on the child's history of and adjustment to trauma:
+The dataset used in this study consists of 13,500 unique clients served by San Diego County Children Youth and Family Behavioral Health Services from March 2019 through February 2022. The data is divided into three groups based on the child's history of and adjustment to trauma:
 - **No Trauma**: Children without any reported trauma history.
 - **Low Impact**: Children with a history of trauma but showing good adjustment.
 - **High Impact**: Children with a history of trauma and poor adjustment.
