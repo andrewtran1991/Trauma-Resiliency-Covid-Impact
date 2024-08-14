@@ -23,7 +23,7 @@ The dataset used in this study consists of 13,500 unique clients served by San D
 The study employs several key instruments and methodologies:
 - **Child and Adolescent Needs and Strengths (CANS)**: A tool used to assess the needs and strengths of children entering services.
 - **Pediatric Symptom Checklist (PSC-35)**: A screening tool used to identify psychosocial dysfunction in children.
-- **ANOVA and Regression Analyses**: Statistical methods used to compare mean scores and examine group interactions over time.
+- **ANCOVA and Regression Analyses**: Statistical methods used to compare mean scores and examine group interactions over time.
 
 ## Results
 The key findings of the study are:
